@@ -1,4 +1,4 @@
-package com.cineease.movie.enums;
+package com.cineease.movie.model.enums;
 
 public enum Genre {
     ACTION,

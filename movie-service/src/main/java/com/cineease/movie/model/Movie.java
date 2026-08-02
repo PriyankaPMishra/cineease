@@ -49,7 +49,7 @@ public class Movie {
     private String trailerUrl;
 
     @Builder.Default
-    private Boolean isActive = true;
+    private boolean isActive = true;
 
     @CreationTimestamp
     @Column(updatable = false)
