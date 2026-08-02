@@ -1,6 +1,6 @@
 package com.cineease.movie.dto;
 
-import com.cineease.movie.enums.Genre;
+import com.cineease.movie.model.enums.Genre;
 import jakarta.validation.constraints.*;
 import java.time.LocalDate;
 

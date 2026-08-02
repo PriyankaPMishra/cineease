@@ -1,4 +1,5 @@
-rootProject.name = 'movie-booking'
+rootProject.name = 'cineease'
 
 // List every microservice here as a sub-project
 include 'movie-service'
+include 'user-service'
